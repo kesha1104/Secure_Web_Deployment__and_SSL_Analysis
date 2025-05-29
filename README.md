@@ -1,7 +1,6 @@
 # Secure_Web_Deployment__and_SSL_Analysis
 
 🔐 Overview
-
 This project focuses on deploying a secure web server and performing SSL analysis to ensure encrypted communication and robust configuration against potential threats.
 
 🛠️ Tools Used
